@@ -27,6 +27,40 @@ npm run dev
 yarn dev
 ```
 
+## Folders Schema
+
+📁 app
+
+```∟ core```
+
+📁 components
+
+```∟ functions that may or may not receive parameters and are embedded in a page;```
+
+📁 constants
+
+```∟ file containing arrays of objects with content that will be consumed by the components;```
+
+📁 pages
+
+```∟ application screens that will be connected to routes;```
+
+📁 public
+
+```∟ images, icons, and other graphic items;```
+
+📁 sections
+
+```functions that may or may not receive parameters and serve as clusters of "components". They are also incorporated into the pages;```
+
+📁 styles
+
+```∟ location where global styles, style variables will be placed;```
+
+📁 utils
+
+```∟ functions that will handle small manipulations, such as conversions, renderings, and conditional styles;```
+
 ## Soon
 
 >Soon the project will be deployed at [▲ Vercel](https://vercel.com/), and will have CI/CD configuration with [GitHub Actions](https://docs.github.com/pt/actions).
