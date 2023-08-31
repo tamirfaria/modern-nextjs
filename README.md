@@ -60,7 +60,3 @@ yarn dev
 📁 utils
 
 ```∟ functions that will handle small manipulations, such as conversions, renderings, and conditional styles;```
-
-## Soon
-
->Soon the project will be deployed at [▲ Vercel](https://vercel.com/), and will have CI/CD configuration with [GitHub Actions](https://docs.github.com/pt/actions).
